@@ -10,7 +10,7 @@ namespace LabSintaxis2
 {
     public class Program
     {
-        public static void Main(String[] args)
+        static void Main(String[] args)
         {
             //Ir alternando cada comentario para ir viendo cada parte de el laboratorio
 
